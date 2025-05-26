@@ -1,0 +1,5 @@
+folder_path: 'C:\\Projects\\Glen\\CSV files\\'
+output_folder: 'C:\\Projects\\Glen\\Reports\\'
+# Path to the LINZ logo image file (Please provide a valid path without special characters)
+# Toitū Te Whenua will not be able to read if the path contains special characters like spaces or non-ASCII characters
+linz_logo_path: 'C:\\Projects\\Glen\\toitu_te_whenua_colour_cmyk_66mm_png.png'
